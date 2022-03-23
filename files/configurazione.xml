@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParametriDiConfigurazione>
+    <numeroRigheTabella>6</numeroRigheTabella>
+
+
+<!-- 
+<ParametriDiConfigurazione>
+    <numeroRigheTabella>5</numeroRigheTabella>
+    <periodoInEsameleIniziale>60</periodoInEsameleIniziale>
+    <arrayCategorieSpesa>
+        <string>Abbigliamento</string>
+        <string>Animali domestici</string>
+        <string>Casa & Giardino</string>
+        <string>Generi alimentari</string>
+        <string>Hobbies e tempo libero</string>
+        <string>Istruzione</string>
+        <string>Mezzi Di Transporto</string>
+        <string>Sanità</string>
+        <string>Sport</string>
+        <string>Tasse</string>
+        <string>Utenze</string>
+        <string>Varie</string>
+        <string>Veicoli</string>
+    </arrayCategorieSpesa>
+    <arrayMetodiDiPagamento>
+        <string>Contanti</string>
+        <string>Banca #1</string>
+        <string>Banca #2</string>
+    </arrayMetodiDiPagamento>
+    -->
+    <numeroCategorieGrafico>4</numeroCategorieGrafico>
+    <!--
+    <coloriGrafico>
+        <javafx.scene.paint.Color>
+            <red>1.0</red>
+            <green>0.0</green>
+            <blue>0.0</blue>
+            <opacity>1.0</opacity>
+        </javafx.scene.paint.Color>
+        <javafx.scene.paint.Color>
+            <red>0.0</red>
+            <green>1.0</green>
+            <blue>0.0</blue>
+            <opacity>1.0</opacity>
+        </javafx.scene.paint.Color>
+        <javafx.scene.paint.Color>
+            <red>0.0</red>
+            <green>0.0</green>
+            <blue>1.0</blue>
+            <opacity>1.0</opacity>
+        </javafx.scene.paint.Color>
+        <javafx.scene.paint.Color>
+            <red>1.0</red>
+            <green>1.0</green>
+            <blue>0.0</blue>
+            <opacity>1.0</opacity>
+        </javafx.scene.paint.Color>
+        <javafx.scene.paint.Color>
+            <red>1.0</red>
+            <green>0.64705884</green>
+            <blue>0.0</blue>
+            <opacity>1.0</opacity>
+        </javafx.scene.paint.Color>
+        <javafx.scene.paint.Color>
+            <red>0.5019608</red>
+            <green>0.0</green>
+            <blue>0.5019608</blue>
+            <opacity>1.0</opacity>
+        </javafx.scene.paint.Color>
+    </coloriGrafico>
+    <coloreCaricaDatiSelezionaPeriodo>
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>1.0</blue>
+        <opacity>1.0</opacity>
+    </coloreCaricaDatiSelezionaPeriodo>
+    <coloreInserisci>
+        <red>0.0</red>
+        <green>0.5019608</green>
+        <blue>0.0</blue>
+        <opacity>1.0</opacity>
+    </coloreInserisci>
+    <coloreElimina>
+        <red>0.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <opacity>1.0</opacity>
+    </coloreElimina>
+    <coloreAnnulla>
+        <red>1.0</red>
+        <green>0.0</green>
+        <blue>0.0</blue>
+        <opacity>1.0</opacity>
+    </coloreAnnulla>
+    <coloreCambiaPeriodo>
+        <red>1.0</red>
+        <green>0.64705884</green>
+        <blue>0.0</blue>
+        <opacity>1.0</opacity>
+    </coloreCambiaPeriodo>
+    <coloreRigaDiInserimento>
+        <red>1.0</red>
+        <green>1.0</green>
+        <blue>0.8784314</blue>
+        <opacity>1.0</opacity>
+    </coloreRigaDiInserimento>
+    <indirizzoIpLog>127.0.0.1</indirizzoIpLog>
+    <portaLog>8080</portaLog>
+    <indirizzoIpDatabase>127.0.0.1</indirizzoIpDatabase>
+    <portaDatabase>3306</portaDatabase>
+    <nomeDatabase>gestore_spese</nomeDatabase>
+    <usernameDatabase>root</usernameDatabase>
+    <passwordDatabase></passwordDatabase>
+-->
+</ParametriDiConfigurazione>
+
+
